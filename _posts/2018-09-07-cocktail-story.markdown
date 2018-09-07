@@ -2,7 +2,7 @@
 title: "Cocktail Story"
 layout: post
 date: 2018-09-07 21:17
-image: /assets/images/hero.jpg
+image: assets/images/hero.jpg
 headerImage: true
 tag:
 star: true

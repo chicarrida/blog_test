@@ -17,7 +17,7 @@ resume-external: true
 resume-url: https://google.com/?q=my+resume
 
 url: https://chicarrida.github.io/blog_test/
-baseurl: '/blog_test'
+baseurl: '/blog_test/'
 
 #url: https://koppl.in/indigo
 # your url: http://USERNAME.github.io
@@ -37,7 +37,7 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: //facebook.com/melanie.krauth.14
+facebook: melanie.krauth.14
 #twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
