@@ -16,8 +16,8 @@ resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://chicarrida.github.io/blog_test/
-baseurl: '/blog_test/'
+url: https://chicarrida.github.io/blog_test
+
 
 #url: https://koppl.in/indigo
 # your url: http://USERNAME.github.io
@@ -34,7 +34,7 @@ permalink: /:title/
 # if you don't want comments in your posts, leave categories empty
 disqus:
   shortname: mydisqus # enter this from your disqus account
-  categories: [blog, project] # only show disqus for posts that have these categories
+  categories: [blog] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
 facebook: melanie.krauth.14
@@ -104,7 +104,7 @@ show-author: true
 # do you want some animations?
 animation: true
 
-plugins:
+plugins_dir:
   - jekyll-seo-tag
   - jekyll-gist
   - jekyll-feed

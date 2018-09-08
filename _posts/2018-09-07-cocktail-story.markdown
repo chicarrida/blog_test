@@ -2,10 +2,8 @@
 title: "Cocktail Story"
 layout: post
 date: 2018-09-07 21:17
-image: assets/images/hero.jpg
+image: /assets/images/hero.jpg
 headerImage: true
-tag:
-star: true
 category: blog
 author: melanie
 description: A story inspired by the names of cocktails
@@ -15,6 +13,8 @@ description: A story inspired by the names of cocktails
 
 This is a **long** one!  
 Last year a friend and I made up this game of inventing stories based on the names of cocktails when we went out for dinner. This one I actually wrote down, et voilá:
+
+![My helpful screenshot](/assets/images/hero.jpg)
 
 
 *Once upon a time, o best beloved, a green bastard lived at the farm. It wasnt clear where he came from. It started with traces around the village, ocassional sights in the bushes and slowly, slowly he got tamed. He  secretely helped the villagers on the fields and they left him some treats.  Slowly, slowly the green bastard became a part of the village and lived in the barn of the farm. He didnt talk much and spend hours and hours in the wilderness around the village.*
